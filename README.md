@@ -10,8 +10,12 @@ My self-taught ability has allowed me to acquire advanced skills autonomously, c
 
 ## Skills
 
-- **Languages:** Python, Java, JavaScript, C++
-- **Areas of Expertise:** Internet of Things, Artificial Intelligence, Software Development
+-**DevOps AWS:**, Azure, Docker
+-**Back‑end** Laravel, Django, FAST API
+-**Front‑end:** React, HTML5, CSS
+-**Programming** PHP, Javascript, Python, JAVA, C++, C#, LaTeX, Git
+-**Software:** Visual Studio, Visual Studio Code, Code::Blocks, STM32CubeIDE, JupyterLab, Pycharm, Minitab
+-**Languages:**  Spanish (Native), English (Advance)
 - **Soft Skills:** Quick learner, Adaptable, Self-taught, Team player, Mentor
 
 
