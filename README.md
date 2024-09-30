@@ -10,17 +10,17 @@ My self-taught ability has allowed me to acquire advanced skills autonomously, c
 
 ## Skills
 
--**DevOps AWS:**, Azure, Docker
+- **DevOps AWS:**, Azure, Docker
 
--**Back‑end** Laravel, Django, FAST API
+- **Back‑end** Laravel, Django, FAST API
 
--**Front‑end:** React, HTML5, CSS
+- **Front‑end:** React, HTML5, CSS
 
--**Programming** PHP, Javascript, Python, JAVA,C++, C#, Matlab, LaTeX, Git
+- **Programming** PHP, Javascript, Python, JAVA,C++, C#, Matlab, LaTeX, Git
 
--**Software:** Visual Studio, Visual Studio Code, Code::Blocks, STM32CubeIDE, JupyterLab, Pycharm, Minitab
+- **Software:** Visual Studio, Visual Studio Code, Code::Blocks, STM32CubeIDE, JupyterLab, Pycharm, Minitab
 
--**Languages:**  Spanish (Native), English (Advance)
+- **Languages:**  Spanish (Native), English (Advance)
 
 - **Soft Skills:** Quick learner, Adaptable, Self-taught, Team player, Mentor
 
