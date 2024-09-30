@@ -14,5 +14,9 @@ My self-taught ability has allowed me to acquire advanced skills autonomously, c
 - **Areas of Expertise:** Internet of Things, Artificial Intelligence, Software Development
 - **Soft Skills:** Quick learner, Adaptable, Self-taught, Team player, Mentor
 
+## Get in Touch
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/francisco-javier-castro-marquez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/FrancCasM)  
+
+---
 ⭐️ From Francisco
